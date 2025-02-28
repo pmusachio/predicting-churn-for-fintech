@@ -1,1 +1,6 @@
-# predicting-churn-for-a-fintech
+# Predicting Churn for a Fintech
+>WORK IN PROGRESS...
+
+<br/>
+
+-
